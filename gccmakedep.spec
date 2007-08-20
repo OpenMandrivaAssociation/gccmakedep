@@ -32,6 +32,6 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root)
 %{_bindir}/gccmakedep
-%{_mandir}/man1/gccmakedep.1x.bz2
+%{_mandir}/man1/gccmakedep.*
 
 
