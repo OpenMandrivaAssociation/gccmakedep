@@ -1,6 +1,6 @@
 Name: gccmakedep
 Version: 1.0.2
-Release: %mkrel 3
+Release: %mkrel 4
 Summary: Create dependencies in makefiles using 'gcc -M'
 Group: System/X11
 URL: http://xorg.freedesktop.org
