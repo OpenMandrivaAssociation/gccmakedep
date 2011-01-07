@@ -6,7 +6,6 @@ Group:		System/X11
 URL:		http://xorg.freedesktop.org
 Source:		http://xorg.freedesktop.org/releases/individual/util/%{name}-%{version}.tar.bz2
 License:	MIT
-Packager:	Gustavo Pichorim Boiko <boiko@mandriva.com> 
 BuildRoot:	%{_tmppath}/%{name}-root
 BuildRequires:	x11-util-macros >= 1.0.1
 
