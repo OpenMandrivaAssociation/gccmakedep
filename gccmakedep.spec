@@ -1,7 +1,7 @@
 Summary:	Create dependencies in makefiles using 'gcc -M'
 Name:		gccmakedep
 Version:	1.0.2
-Release:	13
+Release:	14
 Group:		System/X11
 License:	MIT
 Url:		http://xorg.freedesktop.org
